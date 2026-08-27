@@ -1,0 +1,11 @@
+.gradle/
+build/
+run/
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+remappedSrc/
+vendor/**/.artifact-inspection/
+vendor/**/.build-inputs/
